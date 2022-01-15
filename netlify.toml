@@ -1,0 +1,5 @@
+[build]
+  base    = ""
+  publish = "static"
+  command = "bash ./build.sh"
+  

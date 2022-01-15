@@ -1,0 +1,6 @@
+# Ignore the main build output
+static/index.html
+
+# Ignore generated template files (see optional step in "How to Use" section of the README)
+template/blog.html
+template/experience.html

@@ -1,0 +1,12 @@
+For one post on a given day:
+- Year.Month.Day
+
+For multiple posts on a given day:
+- Year.Month.Day.1
+- Year.Month.Day.10
+- Year.Month.Day.100
+- etc.
+
+This ensure the folders will be properly ordered for the subscript.
+
+Work-in-progress blog posts can be stored in the WIP folder to keep them from being added to the compiled webpage.
